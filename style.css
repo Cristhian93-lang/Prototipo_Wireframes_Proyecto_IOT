@@ -27,6 +27,9 @@ h1, h2, h3 {
   text-align: center;
   letter-spacing: 1px;
 }
+h1 {
+  color: white;
+}
 
 p, ul {
   text-align: justify;
